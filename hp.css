@@ -1,3 +1,18 @@
 body{
-background-color: red;
+background-color: grey;
 }
+
+h1{
+  font-family:helvetica;
+  color:blue;
+}
+
+p{
+  font-family:arial;
+  color:skyblue;
+}
+
+img{
+  border-stle:solid;
+  border width: 20px
+  
